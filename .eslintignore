@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/mock/*
+tests/unit/coverage/*
+!.eslintrc.js
